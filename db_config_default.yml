@@ -1,0 +1,12 @@
+db:
+  fashionscape: # For all 'main' stuff. Outfits, users, disabled users, etc
+    username: "username"
+    password: "password"
+    host: "host"
+    database: "database"
+
+  token_applications: # For registered applications, should be stored separately from everything else?
+    username: "username"
+    password: "password"
+    host: "host"
+    database: "database"
