@@ -1,0 +1,8 @@
+# Required things
+fastapi
+sqlalchemy
+msal
+pyyaml
+pytz
+azure-keyvault-secrets
+azure-identity
